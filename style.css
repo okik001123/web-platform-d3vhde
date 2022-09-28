@@ -29,7 +29,7 @@
 .logo a:hover {
   color: rgb(39, 2, 5);
   font-size: 20px;
-  font-style: inherit;
+  font-style: italic;
   font-family: 'Franklin Gothic Medium';
   padding-left: 20px;
   float: left;
@@ -185,14 +185,15 @@ ul li a:hover {
 
 .form h2 {
   width: 220px;
+  height: 5px;
   font-family: sans-serif;
   text-align: center;
   color: #ff7200;
-  font-size: 22px;
+  font-size: 20px;
   background-color: transparent;
   border-radius: 10px;
   margin: 2px;
-  padding: 8px;
+  padding: 10px;
 }
 
 .form input {
